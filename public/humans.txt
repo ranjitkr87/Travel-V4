@@ -1,0 +1,21 @@
+/* TEAM */
+Company: Malabar Trails Travel Co.
+Studio Lead & Chief Route Curator: Bastian Street Planning Desk
+Chauffeur Guild: Certified Kerala Naturalists & Storytellers
+Location: 14/282 Bastian Street, Near Parade Ground, Fort Kochi, Cochin, Kerala 682001, India
+Contact: journeys [at] malabartrails.com
+WhatsApp: +91 94470 12345
+Telephone: +91 (0) 484 221 8904
+
+/* THANKS */
+Indigenous Spice Farmers of Mattancherry & Wayanad
+Country Boatmen of Champakulam & Vembanad Lake
+Coir Weavers & Kathakali Masters of Cochin
+Kerala Tourism Accreditation (#KT-4412)
+
+/* SITE */
+Last update: 2026/10/05
+Language: English / Malayalam
+Standards: HTML5, CSS3, WCAG 2.1 AA, Schema.org JSON-LD, OpenGraph, ARIA
+Components: React 19, TypeScript, Tailwind CSS, Vite
+Design System: Artisanal Quiet Luxury (Playfair Display & Plus Jakarta Sans)

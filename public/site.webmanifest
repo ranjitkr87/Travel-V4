@@ -1,0 +1,19 @@
+{
+  "name": "Malabar Trails — Slow Travel in God’s Own Country",
+  "short_name": "Malabar Trails",
+  "description": "Thoughtfully curated bespoke journeys, heritage stays, and private fleet charters across Fort Kochi, Alleppey backwaters, and Munnar in Kerala.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6faf6",
+  "theme_color": "#082217",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "lifestyle", "navigation"]
+}

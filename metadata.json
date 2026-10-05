@@ -1,0 +1,6 @@
+{
+  "name": "Malabar Trails — Slow Travel in Kerala",
+  "description": "Thoughtfully curated bespoke journeys, heritage stays, and private fleet charters across Fort Kochi, Alleppey backwaters, and Munnar in God's Own Country.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

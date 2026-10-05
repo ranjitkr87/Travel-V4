@@ -1,0 +1,22 @@
+# Malabar Trails - robots.txt
+# https://ais-pre-c4aphjzzvmhypb2whpttcd-264323641319.asia-southeast1.run.app
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemaps & Discovery
+Sitemap: https://ais-pre-c4aphjzzvmhypb2whpttcd-264323641319.asia-southeast1.run.app/sitemap.xml
+
+# AI & LLM Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
